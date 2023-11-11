@@ -1,3 +1,5 @@
+#Validação de Login.
+
 from hashlib import sha256
 senOK = '78ffc2e25bc4e2ef60c0532acd15ece8c7a66e8ef2ad5a3b09227e98887e7cf6'       
 nro = 0 

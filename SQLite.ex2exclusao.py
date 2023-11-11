@@ -1,3 +1,5 @@
+#Código para exclusão de cursos na tabela do SQLite.
+
 import sqlite3 #Biblioteca do sqlite
 
 conn = sqlite3.connect("../SQLite/Santa Luzia.db")

@@ -1,3 +1,5 @@
+#Código para cadastro de cursos no SQLite.
+
 import sqlite3 #Biblioteca do sqlite
 
 conn = sqlite3.connect("../SQLite/Santa Luzia.db")
